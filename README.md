@@ -1,17 +1,17 @@
-# _proyecto final
+PROYECTO FINAL
 
-OBJETIVO GENERAL
+_objetivo general
 --------
 
-USUARIOS
+_usuarios
+--------
+
+_antecedentes
+--------
+
+_referentes
 --------
 
 
-¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio
 
-
-¿Qué existe que es similar a la propuesta? → antecedentes →
-
-
-¿Qué existe que puede inspirar la propuesta? → referentes 
 
